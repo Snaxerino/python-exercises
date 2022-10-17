@@ -6,4 +6,3 @@ Content list:
 -> Sequencial Structure
 
     1 - Print "Hello, World!"
-    1 - Print "Hello, World!"
