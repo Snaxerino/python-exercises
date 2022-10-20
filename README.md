@@ -6,6 +6,6 @@ Content list:
 
 -> Sequencial Structure
 
-   1 - Print "Hello, World
+    1 - Print "Hello, World
    
-   2 - Ask and Show Number
+    2 - Ask and Show Number
