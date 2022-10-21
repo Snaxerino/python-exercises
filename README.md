@@ -9,3 +9,4 @@ Content list:
     1 - Print "Hello, World
     2 - Ask and Show Number
     3 - Add 2 Numbers
+    4 - 4 bimonthly grades and show average
