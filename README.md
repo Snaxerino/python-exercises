@@ -11,3 +11,4 @@ Content list:
     3 - Add 2 Numbers
     4 - 4 bimonthly grades and show average
     5 - Convert meters to centimeters
+    6 - Calculate Circumference Size
