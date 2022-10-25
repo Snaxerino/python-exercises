@@ -12,3 +12,4 @@ Content list:
     4 - 4 bimonthly grades and show average;
     5 - Convert meters to centimeters;
     6 - Calculate Circumference Size;
+    7 - Calculate the area of a square
