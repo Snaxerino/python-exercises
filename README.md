@@ -13,4 +13,4 @@ Content list:
     5 - Convert meters to centimeters;
     6 - Calculate Circumference Size;
     7 - Calculate the area of a square;
-    8 - Monthly salary (hourly earnings and working hours)
+    8 - Monthly salary (hourly earnings and working hours);
