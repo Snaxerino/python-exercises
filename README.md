@@ -15,4 +15,4 @@ Content list:
     7 - Calculate the area of a square;
     8 - Monthly salary (hourly earnings and working hours);
     9 - Fahrnheit to Celsius;
-   10 - Celsius to Fahrnheit;
+    10 - Celsius to Fahrnheit;
