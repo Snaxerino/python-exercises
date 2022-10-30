@@ -16,3 +16,7 @@ Content list:
     8 - Monthly salary (hourly earnings and working hours);
     9 - Fahrnheit to Celsius;
     10 - Celsius to Fahrnheit;
+    11 - Ask 2 numbers, 1 int and other float:
+        a) double the first, half the second;
+        b) triple the first with the third;
+        c) the third raised to the cube.
