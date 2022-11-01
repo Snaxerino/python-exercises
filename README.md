@@ -20,3 +20,4 @@ Content list:
         a) double the first, half the second;
         b) triple the first with the third;
         c) the third raised to the cube.
+    12 - A person's ideal weight;
