@@ -21,3 +21,4 @@ Content list:
         b) triple the first with the third;
         c) the third raised to the cube.
     12 - A person's ideal weight;
+    13 - Ideal weight, man and woman;
