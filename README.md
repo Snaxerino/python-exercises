@@ -22,3 +22,5 @@ Content list:
         c) the third raised to the cube.
     12 - A person's ideal weight;
     13 - Ideal weight, man and woman;
+    14 - 
+    15 - Monthly salary (hourly earnings and working hours) + taxes
