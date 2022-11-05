@@ -6,7 +6,7 @@ Content list:
 
 -> Sequencial Structure
 
-    1 - Print "Hello, World;
+    **1** - Print "Hello, World;
     2 - Ask and Show Number;
     3 - Add 2 Numbers;
     4 - 4 bimonthly grades and show average;
@@ -24,3 +24,4 @@ Content list:
     13 - Ideal weight, man and woman;
     14 - 
     15 - Monthly salary (hourly earnings and working hours) + taxes
+    16 - 
