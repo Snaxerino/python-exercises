@@ -24,4 +24,8 @@ Content list:
     13 - Ideal weight, man and woman;
     14 - 
     15 - Monthly salary (hourly earnings and working hours) + taxes;
-    16 - Area painted, cans of paint used and price per can used;
+    16 - Area painted, cans of paint used and price per can used.
+
+-> Decision Structure
+    
+    1 - Ask for 2 numbers, print the highest;
