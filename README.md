@@ -29,3 +29,4 @@ Content list:
 -> Decision Structure
     
     1 - Ask for 2 numbers, print the highest;
+    2 - Ask for 1 number and say whether it is positive or negative.
